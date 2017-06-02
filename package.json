@@ -1,8 +1,12 @@
 {
   "name": "jira-gantt",
+<<<<<<< HEAD
   "version": "1.0.0"  
 },
   "author": "me",
+=======
+  "version": "1.0.0",
+>>>>>>> 0355d2d0374b77a96e1ed0b7ec6815fa9c066bdf
   "license": "MIT"
 },
 "devDependencies": {
