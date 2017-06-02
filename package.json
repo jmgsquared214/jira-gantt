@@ -1,8 +1,11 @@
 {
   "name": "jira-gantt",
-  "version": "1.0.0"  
-},
-"devDependencies": {
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmgreene/jira-gantt.git"
+  },
+  "devDependencies": {
     "@cycle/dom": "^14.1.0",
     "@cycle/xstream-adapter": "^3.0.4",
     "@cycle/xstream-run": "^4.0.0",
