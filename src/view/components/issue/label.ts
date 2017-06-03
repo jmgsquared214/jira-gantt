@@ -8,7 +8,7 @@ const style = {
 }
 
 export function issueLabel(issueKey: string) {
-  const href = `https://cianru.atlassian.net/browse/${issueKey}`
+  const href = `https://jmgsquared214.atlassian.net/browse/${issueKey}`
   const attrs = { href, target: '_blank' }
   return a({ style, attrs }, issueKey)
 }
