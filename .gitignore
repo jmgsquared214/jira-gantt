@@ -8,3 +8,4 @@ coverage/
 
 # project
 dist/
+/nbproject/private/

@@ -35,7 +35,8 @@
   },
   "dependencies": {
     "express": "^4.14.0",
-    "http-proxy-middleware": "^0.17.2"
+    "http-proxy-middleware": "^0.17.2",
+    "webpack-build": "^1.0.1"
   },
   "jest": {
     "transform": {
