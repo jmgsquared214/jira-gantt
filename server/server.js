@@ -10,7 +10,7 @@ app.set('x-powered-by', false)
 
 // jira api docs https://docs.atlassian.com/jira/REST/cloud/
 app.use('/jira', proxy({
-  target: 'https://cianru.atlassian.net/',
+  target: 'https://jmgsquared214.atlassian.net/',
   pathRewrite: { '^/jira': '/rest' },
   headers: { 'User-Agent': 'Node.js' },
   changeOrigin: true,
